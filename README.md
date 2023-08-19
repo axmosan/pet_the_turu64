@@ -1,7 +1,7 @@
 # pet_the_turu64
 turu64をなでなでしよう
 
-
+pet_the_turu64/footage/pet.gif
 
 ## 入ってるもの
 
